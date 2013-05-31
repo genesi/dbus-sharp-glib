@@ -1,0 +1,23 @@
+dbus-sharp-glib (0.5.0-3build1) oneiric; urgency=low
+
+  * No-change rebuild against CLR 4.0
+
+ -- Iain Lane <laney@ubuntu.com>  Mon, 11 Jul 2011 22:55:43 +0100
+
+dbus-sharp-glib (0.5.0-3) unstable; urgency=low
+
+  * Upload to Sid
+
+ -- Jo Shields <directhex@apebox.org>  Tue, 15 Feb 2011 22:08:21 +0000
+
+dbus-sharp-glib (0.5.0-2) experimental; urgency=low
+
+  * Fix substitution which FTBFSed with dash as sh
+
+ -- Iain Lane <laney@ubuntu.com>  Tue, 16 Nov 2010 23:28:27 +0000
+
+dbus-sharp-glib (0.5.0-1) experimental; urgency=low
+
+  * Initial release. (Closes: #598946)
+
+ -- Mirco Bauer <meebey@debian.org>  Sun, 03 Oct 2010 21:32:47 +0200
